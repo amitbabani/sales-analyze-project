@@ -1,4 +1,4 @@
-# 🪔 Diwali Sales Data Analysis
+# Diwali Sales Data Analysis
 
 This project presents an exploratory data analysis (EDA) on Diwali sales data to uncover insights that can help businesses improve customer experience and boost sales during festive seasons.
 
