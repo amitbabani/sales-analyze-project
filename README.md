@@ -42,9 +42,3 @@ The objective of this project is to derive business insights that can be used to
 - Personalize marketing strategies
 - Optimize inventory planning
 - Improve targeting for future Diwali campaigns
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Install required libraries (`pip install -r requirements.txt`)
-3. Run the Jupyter Notebook
